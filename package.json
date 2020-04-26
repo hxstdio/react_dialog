@@ -11,9 +11,7 @@
     "prop-types": "^15.6.1",
     "react": "16.3.2",
     "react-dom": "16.3.2",
-    "react-tap-event-plugin": "^3.0.2",
-    "@urc/portal": "../portal",
-    "@urc/overlay": "../overlay"
+    "react-tap-event-plugin": "^3.0.2"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
