@@ -10,7 +10,7 @@
   "dependencies": {
     "prop-types": "^15.6.1",
     "react": "16.3.2",
-    "react-dom": "16.3.2",
+    "react-dom": "16.13.1",
     "react-tap-event-plugin": "^3.0.2",
     "@urc/portal": "../portal",
     "@urc/overlay": "../overlay"
